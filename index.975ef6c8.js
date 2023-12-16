@@ -27088,11 +27088,11 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Abhaychandra Gupta",
-    title: "Artificial intelligence An Data Science Student",
+    title: "Artificial Intelligence and Data Science Student",
     email: "abhaysgupta722@gmail.com",
-    gitHub: "https://github.com/Abhayg444",
-    instagram: "https://www.instagram.com/_abhayg_444/",
-    linkedIn: "www.linkedin.com/in/abhaychandra-gupta-8a2180197",
+    gitHub: "Abhayg444",
+    instagram: "_abhayg_444",
+    linkedIn: "abhaychandra-gupta-8a2180197",
     medium: "",
     twitter: "microsoft",
     youTube: "Code"
@@ -28716,7 +28716,7 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/BOy with laptop.jpg":"1gtx7","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/BOy with laptop.jpg":"1gtx7"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"1gtx7":[function(require,module,exports) {
