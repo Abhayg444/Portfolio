@@ -45,7 +45,7 @@ const projectList = [
   {
     title: "To-do-list",
     description: "A React application that allows users to create a to-do list.",
-    url: "https://github.com/Abhayg444/To-do-list",
+    url: "https://todoabhaylist.netlify.app/",
   },
   {
     title: "BattleShip",
