@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Abhaychandra Gupta",
-  title: "Artificial intelligence An Data Science Student",
+  title: "Artificial Intelligence and Data Science Student",
   email: "abhaysgupta722@gmail.com",
   gitHub: "https://github.com/Abhayg444",
   instagram: "https://www.instagram.com/_abhayg_444/",
