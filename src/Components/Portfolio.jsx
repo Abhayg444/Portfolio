@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/desk.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Serenity",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An AI chatbot that helps people with Depression, Anxiety and other mental health issues. It is a Python application that uses a chatbot to interact with the user and provide them with the necessary help.",
+    url: "https://github.com/Abhayg444/Serenity",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Meddy",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "An Symptom Checker and Disease Prediction System. It is a Python application that uses a chatbot to interact with the user and provide them with the necessary help.",
+    url: "https://github.com/Abhayg444/Meddy",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "To-do-list",
+    description: "A React application that allows users to create a to-do list.",
+    url: "https://github.com/Abhayg444/To-do-list",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "BattleShip",
+    description: "A React application that allows users to play the classic game of Battleship.",
+    url: "https://github.com/Abhayg444/Battleships",
   },
 ];
 
